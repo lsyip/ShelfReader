@@ -15,7 +15,7 @@ public class ShelfReader extends AppCompatActivity {
     /* TODO:
        1. Launch camera
        2. Read call numbers & put into array
-       3. Sort
+       3. Sort array
        4. Mark the ones that are out of place
      */
 }
